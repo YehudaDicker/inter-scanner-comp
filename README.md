@@ -1,1 +1,2 @@
 # inter-scanner-comp
+This repository holds my research for the Artificial Intelligence in Biomedical Imaging Laboratory at the Perelman School of Medicine, University of Pennsylvania. This project aims to uncover MRI scanner and hospital scanning methodology differences by comparing voxel intensity histograms, both pre and post normalization, to inform improvements in our ML models, or to confirm their robustness despite the scanner differences. 
